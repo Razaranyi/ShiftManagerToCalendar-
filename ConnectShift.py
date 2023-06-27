@@ -7,8 +7,8 @@ import ExcelAnalysis
 
 file = "/Users/hmhsbsly1/Downloads/schedule.xlsx"
 username = "araz"
-password = "1234Aaaa"
-company = "132"
+password = "password"
+company = "company_id"
 user = "רז ארני"
 
 url = "https://app.shiftorganizer.com/login/?lang=he&previous=homepage&greeting=true"
