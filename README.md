@@ -1,2 +1,2 @@
 # ShiftManagerToCalendar-
-Sync between shift manager app to google calendar using API &amp; Selenium 
+Sync between shift manager app to google calendar using Calendar API &amp; Selenium 
