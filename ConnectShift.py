@@ -5,7 +5,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import ExcelAnalysis
 
-file = "/Users/hmhsbsly1/Downloads/schedule.xlsx"
+file = "path.xlsx"
 username = "araz"
 password = "password"
 company = "company_id"
