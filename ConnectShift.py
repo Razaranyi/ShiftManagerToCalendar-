@@ -16,7 +16,7 @@ url = "https://app.shiftorganizer.com/login/?lang=he&previous=homepage&greeting=
 
 def connectToShift():
 
-    driver = webdriver.Chrome("/Users/hmhsbsly1/PycharmProjects/SOtoCalendar/chromedriver")
+    driver = webdriver.Chrome("path")
 
     driver.get(url)
 
