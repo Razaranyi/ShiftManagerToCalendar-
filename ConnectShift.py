@@ -1,4 +1,4 @@
-import os
+ameimport os
 import time
 
 from selenium import webdriver
@@ -6,10 +6,10 @@ from selenium.webdriver.common.by import By
 import ExcelAnalysis
 
 file = "path.xlsx"
-username = "araz"
-password = "password"
-company = "company_id"
-user = "רז ארני"
+username = "<username>"
+password = "<password>"
+company = "<company_id>"
+user = "<name as saved organizer app>"
 
 url = "https://app.shiftorganizer.com/login/?lang=he&previous=homepage&greeting=true"
 
